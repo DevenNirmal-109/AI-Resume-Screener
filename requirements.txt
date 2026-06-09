@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+scikit-learn
+sentence-transformers
+torch
+pdfplumber
+nltk
+PyPDF2
+transformers
+huggingface-hub
+scipy
+tqdm
+regex
+sentencepiece
+safetensors
